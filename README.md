@@ -1,4 +1,4 @@
-# chaiipeeo
+# Chaipeeo
 An app for online selling of tea shop products (such as :- black coffee,tea,green tea,etc)
 
 Developing an app named "Chaipeeo" for online selling of Tea shop products( like coffee,ice tea,green tea etc.). The app is almost complete. Only payment Gateway Integration is left.
